@@ -36,8 +36,6 @@ function hotelCost(day) {
     }
     return cost;
 }
-var result = hotelCost(2);
-console.log(result);
 
 //problem-04
 function megaFriend(array) {
@@ -49,6 +47,7 @@ function megaFriend(array) {
     }
     return friendName;
 }
+
 
 
 
